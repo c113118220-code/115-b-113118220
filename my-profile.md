@@ -12,7 +12,7 @@
 
 [我最喜歡的網站](https://www.nkust.edu.tw/)
 
-![高科大第一校區風景圖](https://www.google.com/imgres?q=%E9%AB%98%E7%A7%91%E5%A4%A7%E7%AC%AC%E4%B8%80%E6%A0%A1%E5%8D%80&imgurl=http%3A%2F%2Falbum.udn.com%2Fcommunity%2Fimg%2FPSN_PHOTO%2Fshowfon%2Ff_1362839_1.jpg&imgrefurl=https%3A%2F%2Fblog.udn.com%2Fshowfon%2F1495895&docid=VMpqwr49KOqp3M&tbnid=pEIAO_bhEhhBgM&vet=12ahUKEwjAh8SDyYGXAxUcnK8BHSfoESEQnPAOegUIhgIQAA..i&w=580&h=435&hcb=2&ved=2ahUKEwjAh8SDyYGXAxUcnK8BHSfoESEQnPAOegUIhgIQAA)
+![高科大第一校區風景圖](高科大風景.png "NKUST")
 
 >努力不一定會有收穫，但不努力一定不會有收穫
 
